@@ -38,3 +38,7 @@ Excercise 4:
 Write a program that asks the user for their birthdate and calculates their current 
 age using the datetime module.
 """
+x1 = x.strftime("%Y")
+age = input("Type in age: ")
+birthdate = (int(x1) - eval (age))
+print(birthdate)
