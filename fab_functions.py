@@ -12,9 +12,12 @@ sum_numbers(3,4)
 
 # Task 3: Calculate Factorial
 # Write a function `factorial(n)` that calculates the factorial of a given number `n`.
-def factorial(n):
-    print(n)
-factorial()
+def factorial(number):
+    print(number)
+    if number > 0:
+        return 0
+    elif number = 0 or number = 1
+
 # Task 4: Check Even or Odd
 # Write a function `is_even(num)` that takes a number as a parameter and returns `True` if the number is even, and `False` otherwise.
 
