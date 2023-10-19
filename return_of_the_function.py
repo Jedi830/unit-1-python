@@ -39,4 +39,4 @@ def avg(a):
     total = sum(a)
     return total / len(a)
 a = 4,5,6,9,10
-print((average(a)))
+print(((a)))
